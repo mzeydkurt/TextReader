@@ -1,6 +1,6 @@
 # TextReader
 
-**Pythonda 'pyttsx3' Kütüphanesini kullanarak bir metin okuyucu programı oluşturdum.**
+**Pythonda 'gTTS'(Google Text to Speach) Kütüphanesini kullanarak bir metin okuyucu programı oluşturdum.**
   
 
   

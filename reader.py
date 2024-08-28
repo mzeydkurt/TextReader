@@ -2,7 +2,7 @@ from gtts import gTTS
 import playsound3
 
 # Metni belirleyin
-text = "Hi, How Are You Zehra"
+text = "Hi, How Are You ?"
 
 # TTS objesini oluşturun
 tts = gTTS(text=text, lang='en')
